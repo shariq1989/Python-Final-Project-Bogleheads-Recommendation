@@ -1,0 +1,15 @@
+Project Progress
+- Write DB adapter
+- Feed the following into db
+	- hyperlink
+	- date posted
+	- author
+	- thread_id
+	- post_number
+
+- (Optional) unit testing
+- Use matplotlib or pandas to clean and visualize data
+	- All time, by year, by month amazon
+	- All time, by year, by month links
+	- top Domains
+	- users that submit the most links by domain
